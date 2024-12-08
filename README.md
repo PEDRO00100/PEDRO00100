@@ -1,7 +1,7 @@
 # 💻 Sobre mí
 
 ¡Hola! Soy un desarrollador apasionado de México con experiencia en:
-- **Desarrollo de aplicaciones**: móviles, web y de escritorio.
+- **Desarrollo de aplicaciones**: web y de escritorio.
 - **Backend**: Uso frameworks como **Spring Boot** y exploro constantemente nuevos lenguajes y herramientas.
 - **DevOps**: Interesado en mejorar flujos de trabajo y automatización.
 - **Ciberseguridad y privacidad**: Enfocado en proteger los datos de los usuarios y construir aplicaciones seguras.
