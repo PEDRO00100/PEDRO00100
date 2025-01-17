@@ -44,7 +44,7 @@
 
 # 📬 Conecta conmigo
 
-- **Correo**: [pachecoperezpedro843@gmail.com](mailto:pachecoperezpedro843@gmail.com)
+- **Correo**: [contacto.pedro@pm.me](mailto:contacto.pedro@pm.me)
 
 ---
 
